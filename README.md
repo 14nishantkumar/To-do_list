@@ -1,6 +1,6 @@
-To-Do List Web App \n
-A simple and interactive To-Do List web application built using **HTML, CSS, and JavaScript.  
-This app allows users to add, complete, delete, and persist tasks using **browser Local Storage.
+#To-Do List Web App 
+  A simple and interactive To-Do List web application built using **HTML, CSS, and JavaScript.  
+  This app allows users to add, complete, delete, and persist tasks using **browser Local Storage.
 
 🚀 Features
 - Add new tasks
@@ -28,7 +28,7 @@ cd todo-list
 3. Open index.html in your browser(No server required)
 
 💡 How It Works
-Tasks are added dynamically using JavaScript
-Clicking a task toggles completion
-Clicking ❌ removes the task
-Tasks are stored in localStorage to persist after page refresh
+-Tasks are added dynamically using JavaScript
+-Clicking a task toggles completion
+-Clicking ❌ removes the task
+-Tasks are stored in localStorage to persist after page refresh
