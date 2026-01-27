@@ -17,8 +17,8 @@
 - Browser Local Storage
 
 📸 Screenshots
-![To-Do App](home.png)
-![To-Do App](tasks.png)
+![To-Do_list](Home.png)
+![To-Do_list](tasks.png)
 
 ⚙️ How to Run the Project
 1. Clone the repository
