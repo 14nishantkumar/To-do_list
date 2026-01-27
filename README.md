@@ -1,4 +1,4 @@
-To-Do List Web App
+To-Do List Web App \n
 A simple and interactive To-Do List web application built using **HTML, CSS, and JavaScript.  
 This app allows users to add, complete, delete, and persist tasks using **browser Local Storage.
 
