@@ -23,7 +23,7 @@
 ⚙️ How to Run the Project
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/14nishantkumar/To-do_list.git
 ```
 2. Navigate to the project folder
 ``` bash
