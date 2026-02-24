@@ -27,7 +27,7 @@ git clone https://github.com/14nishantkumar/To-do_list.git
 ```
 2. Navigate to the project folder
 ``` bash
-cd todo-list
+cd To-do_list
 ```
 3. Open index.html in your browser(No server required)
 
